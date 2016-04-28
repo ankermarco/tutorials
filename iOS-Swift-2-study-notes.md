@@ -10,6 +10,7 @@ print(b) // 1.235
 print(c) // 1.23
 ```
 Method 2. One step further to wrap above into an extension
+More Swfit extension [here](https://github.com/goktugyil/EZSwiftExtensions)
 ```
 extension Double {
   // Rounds the double to decimal places value
